@@ -1,2 +1,2 @@
 # Prototypal Inheritance
-![Prototypal Inheritance](PrototypalInheritance.gif)
+![Prototypal Inheritance](Prototypal_Inheritance.gif)
